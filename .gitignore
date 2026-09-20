@@ -2,3 +2,4 @@ node_modules/
 dist/
 dist.failed_1/
 *.log
+fetch_artifact.py
